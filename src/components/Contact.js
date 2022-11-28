@@ -15,8 +15,8 @@ function Contact(props) {
         <Card.Text className="mb-2 text-muted">Location:{puplils.location}</Card.Text>
        
        
-        <Button variant="danger">Delete</Button>{' '}
-        <Button variant="secondary">Edit</Button>{' '}
+        <Button variant="danger">Delete</Button>
+        <Button variant="secondary">Edit</Button>
       </Card.Body>
     </Card>
     </Col>
